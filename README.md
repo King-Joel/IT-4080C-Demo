@@ -1,2 +1,2 @@
-# IT-4080C-Demo
+# Indoscope Demo
 Demo for class
